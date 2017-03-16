@@ -1,8 +1,6 @@
 /*
  * your javascript goes here
 
-referencia: https://www.youtube.com/watch?v=DIVfDZZeGxM
-
 */
 
 
